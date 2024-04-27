@@ -1,0 +1,35 @@
+.profile {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-bottom: 1px solid dimgray;
+}
+
+ul {
+  table-layout: auto;
+  list-style-type: none;
+}
+.stats {
+  display: flex;
+  margin: auto;
+  gap: 10px;
+  justify-content: space-evenly;
+  background-color: gainsboro;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.container {
+  border: 5px solid black;
+  border-radius: 15px;
+}
+
+p {
+  color: grey;
+  margin: auto;
+}
