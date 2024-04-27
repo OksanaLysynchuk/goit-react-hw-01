@@ -1,0 +1,28 @@
+.thead {
+  background-color: black;
+  color: white;
+  margin: 0px;
+}
+
+.transactionHistory {
+  text-align: center;
+  margin-left: 100px;
+  border: 1px solid black;
+}
+
+.transactionHistory tbody tr:nth-child(odd) {
+  background-color: lightgray;
+}
+
+.transactionHistory th,
+.transactionHistory td {
+  padding: 10px;
+}
+
+.transactionHistory th {
+  width: 150px;
+}
+
+.transactionHistory td {
+  width: 200px;
+}

@@ -6,7 +6,6 @@
 }
 
 ul {
-  table-layout: auto;
   list-style-type: none;
 }
 .stats {
@@ -27,6 +26,8 @@ li {
 .container {
   border: 5px solid black;
   border-radius: 15px;
+  margin-top: 10px;
+  margin-left: 100px;
 }
 
 p {

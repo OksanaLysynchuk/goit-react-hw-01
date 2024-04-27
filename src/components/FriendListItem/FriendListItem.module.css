@@ -1,0 +1,22 @@
+.item {
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+}
+
+.text {
+  color: black;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
